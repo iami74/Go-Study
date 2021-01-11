@@ -14,7 +14,7 @@ func main() {
 
 	f := [3][3]int{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}
 
-	a[2] = 7
+	a[2] = 7	//배열의 세번째 요소에 7 대입
 
 	fmt.Println(a)
 	fmt.Println(b)
